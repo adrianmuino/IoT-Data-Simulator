@@ -22,7 +22,7 @@ After data has been generated, the user can:
 
 * Save data as a JSON file.
 * Save data as a CSV file.
-* Compute common statistical values for the data.
+* Compute common statistical values for the sensor data gathered.
 * Plot four different histograms of the outside temperature sampled every 6 hours.
 * Plot a line graph of the outside temperature vs the room temperature.
 * Plot four histograms of room and outside temperature and humidity for all 1000 user entries.
