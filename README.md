@@ -2,7 +2,7 @@
 Graphical User Interface application that allows users to simulate a real-world scenario where IoT big data is gathered from 1000 user homes. The user then has the ability to perform data visualization, and save the data generated into a file.
 
 ## Installation
-Before running this application you need to have installed several packages along with python3. To install the required dependencies run the following commands in your Terminal/Command Line Prompt:
+Before running this application you need to have installed several packages along with python3. Use the package manager [pip](https://pip.pypa.io/en/stable/) to install all the required dependencies. Run the following commands in your Terminal/Command Line Prompt:
 ```bash
 pip install wxPython
 pip install faker
