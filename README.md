@@ -1,8 +1,8 @@
-#IoT Data Simulator
+# IoT Data Simulator
 
 Graphical User Interface application that allows users to simulate a real-world scenario where IoT big data is gathered from 1000 user homes. The user then has the ability to perform data visualization, and save the data generated into a file.
 
-##Installation
+## Installation
 
 Before running this application you need to have installed several packages along with python3. To install the required dependencies run the following commands in your Terminal/Command Line Prompt:
 ```bash
@@ -15,12 +15,14 @@ Once done with installing the required dependencies, to run this application ope
 ```bash
 python app.py
 ```
-Once opened, the user will need to generate IoT data by clicking "File", and then clicking "Generate IoT".
+
+## Usage
+Once the application is opened, the user will need to generate IoT data by clicking "File", and then clicking "Generate IoT".
 After data has been generated, the user can:
 
-*Save data as a JSON file.
-*Save data as a CSV file.
-*Compute common statistical values for the data.
-*Plot four different histograms of the outside temperature sampled every 6 hours.
-*Plot a line graph of the outside temperature vs the room temperature.
-*Plot four histograms of room and outside temperature and humidity for all 1000 user entries.
+* Save data as a JSON file.
+* Save data as a CSV file.
+* Compute common statistical values for the data.
+* Plot four different histograms of the outside temperature sampled every 6 hours.
+* Plot a line graph of the outside temperature vs the room temperature.
+* Plot four histograms of room and outside temperature and humidity for all 1000 user entries.
